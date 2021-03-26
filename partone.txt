@@ -1,0 +1,17 @@
+## Part 1: Learn
+
+Find definitions for the following concepts. Translate each definition into your own words.
+
+* CSV
+CSV is a delimited data format that has fields/columns separated by the comma character and records/rows terminated by newlines. A CSV file does not require a specific character encoding, byte order, or line terminator format (some software do not support all line-end variations). A record ends at a line terminator.
+
+My words:
+CSV is a data format
+
+* Header
+header refers to supplemental data placed at the beginning of a block of data being stored or transmitted. In data transmission, the data following the header is sometimes called the payload or body. It is vital that header composition follows a clear and unambiguous specification or format, to allow for parsing.
+
+* Record
+In relational databases, a record is a group of related data held within the same structure. More specifically, a record is a grouping of fields within a table that reference one particular object. The term record is frequently used synonymously with row.
+* Delimiter
+A delimiter is one or more characters that separate text strings. Common delimiters are commas (,), semicolon (;), quotes ( ", ' ), braces ({}), pipes (|), or slashes ( / \ ). When a program stores sequential or tabular data, it delimits each item of data with a predefined character.
